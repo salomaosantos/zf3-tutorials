@@ -13,9 +13,9 @@
 
 return [
     // 'db' => [
-    //     'driver' => 'Pdo',
-    //     'dsn'    => 'mysql:dbname=album-zf3;host=localhost',
+    //     'driver'   => 'Pdo',
+    //     'dsn'      => 'mysql:dbname=album-zf3;host=localhost;charset=utf8',
+    // 	   'username' => 'root',
+    // 	   'password' => 'root'
     // ],
-    // 'username' => 'root',
-    // 'password' => 'saloweb'
 ];
