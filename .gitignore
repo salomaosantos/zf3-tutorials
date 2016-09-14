@@ -1,6 +1,7 @@
 .vagrant/
 .phpintel/
 vendor/
+config/autoload/local.php
 config/development.config.php
 data/cache/*
 !data/cache/.gitkeep
